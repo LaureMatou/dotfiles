@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laurematoussowsky@gmail.com
+	name = Laure Matoussowsky
